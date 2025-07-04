@@ -67,8 +67,6 @@ aplab-project/
 
 ├── aplab.ipynb
 
-├── Keylogger_Detection.csv
-
 ├── requirements.txt
 
 ├── LICENSE
