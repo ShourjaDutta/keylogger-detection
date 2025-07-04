@@ -1,0 +1,33 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+.env/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# OS-generated files
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Dataset (optional, if you don’t want to push it)
+Keylogger_Detection.csv
