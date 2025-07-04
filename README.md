@@ -71,6 +71,8 @@ aplab-project/
 
 ├── requirements.txt
 
+├── LICENSE
+
 ├── README.md
 
 └── .gitignore
