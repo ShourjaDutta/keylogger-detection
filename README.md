@@ -65,7 +65,7 @@ jupyter notebook aplab.ipynb
 
 aplab-project/
 
-├── aplab.ipynb
+├── main.ipynb
 
 ├── requirements.txt
 
