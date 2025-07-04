@@ -82,7 +82,9 @@ This project is released under the MIT License.
 👤 Author
 
 Shourja Dutta
+
 B.Tech, Computer Science & System Engineering
+
 KIIT University (Batch of 2026)
 
 🤝 Contributions
